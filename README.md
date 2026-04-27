@@ -172,5 +172,3 @@
 
 ***
 
-
-详细条款请查看 [LICENSE](./LICENSE) 和 [COMMERCIAL-LICENSE.md](./COMMERCIAL-LICENSE.md)。
